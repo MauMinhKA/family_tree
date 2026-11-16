@@ -1,0 +1,6 @@
+{
+  "name": "ArchBase",
+  "description": "Clean Architecture + MVI base project with Jetpack Compose, Coroutines & Flow, Supabase, DataStore, Navigation Compose, Coil, and Kotlinx Serialization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
